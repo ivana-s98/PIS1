@@ -3,6 +3,6 @@ public class NewClass
     public void IspisPoruke()
     {
         
-        Console.WriteLine("Ovo je nova klasa.");
+        Console.WriteLine("Izmjena klase od drugog korisnika");
     }
 }
